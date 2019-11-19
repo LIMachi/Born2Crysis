@@ -1,5 +1,10 @@
 
 # Born2Crysis
+
+```diff
++ Final note : 115 / 100
+```
+
 This project is only for braves!
 
 This project features:
